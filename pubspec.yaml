@@ -1,0 +1,35 @@
+name: flutter_check_in_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  shared_preferences: ^2.0.8
+  events_emitter: ^0.5.2
+  multiselect_scope: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_svg: ^2.0.7
+  session_storage: ^0.0.1
+  carousel_slider: ^4.2.1
+  dio: ^5.3.2
+  intl: ^0.17.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Exo
+      fonts:
+        - asset: assets/fonts/Exo-Regular.ttf
+        - asset: assets/fonts/Exo-SemiBold.ttf
