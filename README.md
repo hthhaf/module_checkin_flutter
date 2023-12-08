@@ -20,7 +20,7 @@ Finally after a while looking for a fix, I finished this application. I will try
 ![Screenshot_1697015937](https://github.com/hthhaf/module_checkin_flutter/assets/59130386/144ece60-e0b9-4154-9671-1e9e6b26f000)
 ![Screenshot_1697015972](https://github.com/hthhaf/module_checkin_flutter/assets/59130386/fdcd7633-c5bd-4553-b3b8-da33f1a061a6)
 
-<img src="[https://...](https://github.com/hthhaf/module_checkin_flutter/assets/59130386/b91b6f82-dac4-415b-8aa6-2e4030cb8048)https://github.com/hthhaf/module_checkin_flutter/assets/59130386/b91b6f82-dac4-415b-8aa6-2e4030cb8048" alt="..." width="250" />
+<img src="https://github.com/hthhaf/module_checkin_flutter/assets/59130386/b91b6f82-dac4-415b-8aa6-2e4030cb8048" alt="..." width="250" />
 
 
 
